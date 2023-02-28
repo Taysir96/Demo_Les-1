@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Demo Lesson 1</string>
+    <string name="Test" translatable="false">Hello from kotlin!</string>
+    <string name="you_clicked_me">You clicked me</string>
+</resources>
