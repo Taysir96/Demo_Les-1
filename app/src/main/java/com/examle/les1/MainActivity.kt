@@ -21,6 +21,7 @@ class MainActivity : AppCompatActivity() {
         }
         buttonRight.setOnClickListener{
             txtHello.text = "Hey, i am Taysir"
+
         }
     }
 
